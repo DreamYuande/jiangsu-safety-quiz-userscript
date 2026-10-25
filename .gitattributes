@@ -1,0 +1,2 @@
+# Include the bundled userscript in language statistics despite its long bank line.
+*.user.js linguist-language=JavaScript linguist-detectable -linguist-generated -linguist-vendored
