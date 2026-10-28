@@ -16,7 +16,7 @@
 ## 安装
 
 1. 在支持用户脚本的浏览器中安装 Tampermonkey（油猴）或兼容的脚本管理器。
-2. 新建脚本，删除默认内容，将 [安全知识竞赛题库助手.user.js](./安全知识竞赛题库助手.user.js) 的全部内容粘贴进去并保存。
+2. 点击 [安装／下载脚本](https://raw.githubusercontent.com/DreamYuande/jiangsu-safety-quiz-userscript/main/%E5%AE%89%E5%85%A8%E7%9F%A5%E8%AF%86%E7%AB%9E%E8%B5%9B%E9%A2%98%E5%BA%93%E5%8A%A9%E6%89%8B.user.js)，在脚本管理器弹出的页面中确认安装。
 3. 停用同一助手的旧版，刷新竞赛答题网页。
 4. 如需设置正确率，输入百分比后点“应用”，再点“开始作答”。
 
